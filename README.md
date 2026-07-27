@@ -13,7 +13,7 @@ Berkomitmen pada keunggulan teknis, saya mengembangkan solusi perangkat lunak iO
 - 🔭 **Fokus Pengembangan:** Aplikasi iOS *Enterprise*, *Software as a Service* (SaaS), dan Sistem Manajemen Operasional (B2B).
 - 💡 **Filosofi Desain:** Mengutamakan pengalaman pengguna (*UX*) yang intuitif, antarmuka bernuansa *Neo-brutalism/Glassmorphism* yang bersih, serta kemudahan navigasi bagi pekerja lapangan (seperti tombol *glove-friendly* dan desain adaptif).
 - ⚙️ **Keahlian Teknis:** Mahir dalam menerapkan arsitektur **MVVM**, reaktivitas dengan **Combine**, *Role-Based Access Control* (RBAC), serta kapabilitas *Offline-first* untuk area tanpa sinyal (*blank spot*).
-- 🌱 **Sedang Mendalami:** Integrasi *Internet of Things* (IoT) ke dalam iOS, *SwiftData*, serta visualisasi data tingkat lanjut dengan *Swift Charts*.
+- 🌱 **Sedang Mendalami:** Arsitektur berskala *Enterprise* (Clean Architecture & Modularisasi), protokol sinkronisasi data *offline-to-cloud* tingkat lanjut, dan optimasi pemrosesan data bervolume besar.
 
 ---
 
