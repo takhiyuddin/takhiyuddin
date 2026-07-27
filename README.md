@@ -19,25 +19,37 @@ Berkomitmen pada keunggulan teknis, saya mengembangkan solusi perangkat lunak iO
 
 ### 🛠️ Tech Stack & Alat Pengembangan
 
-**Apple Ecosystem & Languages**
+**Apple Ecosystem & Frameworks**
 <br>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
 <img src="https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Combine" />
+<img src="https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=apple&logoColor=white" alt="SwiftData" />
 <img src="https://img.shields.io/badge/CoreData-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="CoreData" />
+<img src="https://img.shields.io/badge/CoreLocation-34C759?style=for-the-badge&logo=apple&logoColor=white" alt="CoreLocation" />
+<img src="https://img.shields.io/badge/AVFoundation-FF9500?style=for-the-badge&logo=apple&logoColor=white" alt="AVFoundation" />
+<img src="https://img.shields.io/badge/Swift_Charts-5856D6?style=for-the-badge&logo=apple&logoColor=white" alt="Swift Charts" />
 
-**Architecture & Concepts**
+**Architecture & Engineering Concepts**
 <br>
-<img src="https://img.shields.io/badge/MVVM-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white" alt="MVVM" />
+<img src="https://img.shields.io/badge/MVVM_Architecture-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white" alt="MVVM" />
+<img src="https://img.shields.io/badge/Clean_Architecture-1A1A1A?style=for-the-badge&logo=awslambda&logoColor=white" alt="Clean Architecture" />
 <img src="https://img.shields.io/badge/Offline_First-18A497?style=for-the-badge&logo=webrtc&logoColor=white" alt="Offline First" />
 <img src="https://img.shields.io/badge/RBAC_Security-D32F2F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="RBAC" />
+<img src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/SOLID_Principles-8E44AD?style=for-the-badge&logo=databricks&logoColor=white" alt="SOLID" />
+<img src="https://img.shields.io/badge/CI%2FCD-0052CC?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 
-**Tools & Version Control**
+**Tools, Platforms & Version Control**
 <br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
+<img src="https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SPM" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/TestFlight-00C7B7?style=for-the-badge&logo=testflight&logoColor=white" alt="TestFlight" />
 ---
 
 ### 🚀 Proyek Sorotan (Featured Projects)
