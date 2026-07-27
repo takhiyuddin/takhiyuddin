@@ -4,7 +4,7 @@
 
 Saya adalah seorang **iOS Developer** dan **SwiftUI Enthusiast** yang memiliki ketertarikan mendalam dalam memecahkan masalah kompleks di industri skala besar (*Enterprise*). Fokus utama saya adalah mendigitalisasi operasional di sektor berisiko tinggi seperti Pertambangan, Minyak & Gas (Migas), dan Manufaktur.
 
-Saya percaya bahwa perangkat lunak untuk industri berat tidak harus terlihat kaku. Saya selalu berusaha menghadirkan **User Interface (UI)** yang elegan, *clean*, dan berstandar *Apple Design Guidelines* dengan performa yang tangguh di baliknya.
+Berkomitmen pada keunggulan teknis, saya mengembangkan solusi perangkat lunak iOS skala Enterprise yang dirancang untuk keandalan maksimal (maximum reliability). Pendekatan saya menggabungkan rekayasa perangkat lunak modern dengan desain antarmuka yang fungsional, demi mendorong efisiensi dan keamanan operasional di sektor industri berat.
 
 ---
 
