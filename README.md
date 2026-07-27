@@ -46,7 +46,8 @@ Berkomitmen pada keunggulan teknis, saya mengembangkan solusi perangkat lunak iO
 
 #### 🔄 [Continuum (Estafet) - Digital Shift Handover System](#)
 **Deskripsi:**  
-*Estafet is a SwiftUI-based iOS app prototype specifically designed to digitize the shift handover process in high-risk, 24/7 operational industries such as Mining, Oil & Gas, and Manufacturing.*
+*Estafet adalah prototipe aplikasi iOS berbasis SwiftUI yang dirancang khusus untuk mendigitalisasi proses serah terima giliran kerja (shift handover) di industri berisiko tinggi dengan operasional 24/7, seperti Pertambangan, Minyak & Gas (Migas), dan Manufaktur. 
+*
 
 **Fitur Kunci:**
 - Sistem Tanda Tangan Digital (*Acknowledgement System*) antar *shift*.
