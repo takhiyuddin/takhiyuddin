@@ -1,59 +1,92 @@
 # Hi 👋, Saya Takhiyuddin
 
-**iOS Developer | SwiftUI Enthusiast | Enterprise App Developer**
+<h3 align="left">Membangun Solusi Digital Modern untuk Industri Masa Depan</h3>
 
-Saya adalah seorang pengembang perangkat lunak yang bersemangat dalam membangun aplikasi iOS modern, bersih, dan intuitif. Saat ini, saya berfokus pada pengembangan solusi digital (*Software as a Service* / SaaS) untuk industri skala besar seperti Pertambangan, Minyak & Gas, dan Manufaktur guna meningkatkan keselamatan dan efisiensi operasional.
+Saya adalah seorang **iOS Developer** dan **SwiftUI Enthusiast** yang memiliki ketertarikan mendalam dalam memecahkan masalah kompleks di industri skala besar (*Enterprise*). Fokus utama saya adalah mendigitalisasi operasional di sektor berisiko tinggi seperti Pertambangan, Minyak & Gas (Migas), dan Manufaktur.
+
+Saya percaya bahwa perangkat lunak untuk industri berat tidak harus terlihat kaku. Saya selalu berusaha menghadirkan **User Interface (UI)** yang elegan, *clean*, dan berstandar *Apple Design Guidelines* dengan performa yang tangguh di baliknya.
 
 ---
 
 ### 👨‍💻 Tentang Saya
 
-* 🔭 **Saat ini sedang mengembangkan:** Aplikasi iOS berstandar Enterprise menggunakan **SwiftUI** dan **Combine**.
-* 🌱 **Sedang mendalami:** Arsitektur aplikasi modern, *Role-Based Access Control* (RBAC), dan visualisasi data menggunakan *Swift Charts*.
-* 💡 **Filosofi Desain:** Mengutamakan desain antarmuka (*UI/UX*) yang *clean*, *breathable*, bergaya *neo-brutalism/glassmorphism* khas ekosistem Apple.
-* 💬 **Tanya saya tentang:** Swift, SwiftUI, Pengembangan Aplikasi Mobile untuk Sektor Industri, atau UI/UX Design.
+- 🔭 **Fokus Pengembangan:** Aplikasi iOS *Enterprise*, *Software as a Service* (SaaS), dan Sistem Manajemen Operasional (B2B).
+- 💡 **Filosofi Desain:** Mengutamakan pengalaman pengguna (*UX*) yang intuitif, antarmuka bernuansa *Neo-brutalism/Glassmorphism* yang bersih, serta kemudahan navigasi bagi pekerja lapangan (seperti tombol *glove-friendly* dan desain adaptif).
+- ⚙️ **Keahlian Teknis:** Mahir dalam menerapkan arsitektur **MVVM**, reaktivitas dengan **Combine**, *Role-Based Access Control* (RBAC), serta kapabilitas *Offline-first* untuk area tanpa sinyal (*blank spot*).
+- 🌱 **Sedang Mendalami:** Integrasi *Internet of Things* (IoT) ke dalam iOS, *SwiftData*, serta visualisasi data tingkat lanjut dengan *Swift Charts*.
 
 ---
 
-### 🛠️ Tech Stack & Alat
+### 🛠️ Tech Stack & Alat Pengembangan
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+**Apple Ecosystem & Languages**
+<br>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Combine" />
+<img src="https://img.shields.io/badge/CoreData-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="CoreData" />
+
+**Architecture & Concepts**
+<br>
+<img src="https://img.shields.io/badge/MVVM-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white" alt="MVVM" />
+<img src="https://img.shields.io/badge/Offline_First-18A497?style=for-the-badge&logo=webrtc&logoColor=white" alt="Offline First" />
+<img src="https://img.shields.io/badge/RBAC_Security-D32F2F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="RBAC" />
+
+**Tools & Version Control**
+<br>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 ---
 
 ### 🚀 Proyek Sorotan (Featured Projects)
 
-#### 🔄 [Estafet (Continuum)](#)
-Sebuah prototipe aplikasi iOS berbasis SwiftUI yang dirancang khusus untuk mendigitalisasi proses serah terima giliran kerja (*shift handover*) di industri berisiko tinggi dengan operasional 24/7. Menggantikan logbook kertas dengan sistem tanda tangan digital (*acknowledgement*) dan pemantauan kondisi mesin secara *real-time*.
+> Berikut adalah beberapa purwarupa (*prototype*) aplikasi yang saya kembangkan untuk menjawab tantangan nyata di lapangan operasional industri berat:
 
-#### 🍃 [Nirwana - ESG Analytics](#)
-Aplikasi manajemen lingkungan berbasis iOS untuk digitalisasi pelaporan limbah B3 (Bahan Berbahaya dan Beracun) serta pemantauan kualitas air (*settling pond*). Dilengkapi dengan fitur pemindai manifest, analitik grafik interaktif, dan *dashboard* Command Center untuk level eksekutif.
+#### 🔄 [Continuum (Estafet) - Digital Shift Handover System](#)
+**Deskripsi:**  
+*Estafet is a SwiftUI-based iOS app prototype specifically designed to digitize the shift handover process in high-risk, 24/7 operational industries such as Mining, Oil & Gas, and Manufacturing.*
+
+**Fitur Kunci:**
+- Sistem Tanda Tangan Digital (*Acknowledgement System*) antar *shift*.
+- Indikator visual kondisi mesin (*Normal, Warning, Breakdown*).
+- *Dashboard Command Center* khusus untuk Supervisor/Mandor guna melacak status mesin secara *real-time*.
+- Sistem otorisasi pintar berdasarkan ID Pekerja (*Role-Based Access*).
+
+#### 🍃 [Nirwana - Environmental & ESG Analytics](#)
+**Deskripsi:**  
+Aplikasi manajemen lingkungan komprehensif yang dirancang untuk mendigitalisasi pelaporan limbah B3 dan pemantauan kualitas air (*settling pond*). Bertujuan menjaga kepatuhan perusahaan terhadap standar ESG (*Environmental, Social, and Governance*).
+
+**Fitur Kunci:**
+- *Executive Command Center* dengan visualisasi data grafik melengkung (*Catmull-Rom interpolation*) menggunakan **Swift Charts**.
+- Sistem Peringatan Dini (*Hazard Alerts*) saat parameter air (pH/TSS) melewati batas baku mutu.
+- Antarmuka dual-mode: *Mobile Ops* untuk pekerja lapangan dan *iPad/Desktop mode* untuk pihak manajemen HQ.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Apa yang Membuat Aplikasi Saya Berbeda?
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takhiyuddin&show_icons=true&theme=radium&hide_border=true" alt="Takhiyuddin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takhiyuddin&theme=radium&hide_border=true" alt="Takhiyuddin's GitHub Streak" width="48%" />
-</p>
+1. **User-Centric Design:** Pekerja lapangan beroperasi di lingkungan keras. Saya merancang tombol yang besar, kontras warna yang jelas, dan navigasi yang tidak membingungkan.
+2. **Modern iOS Standards:** Menggunakan komponen terbaru dari iOS (seperti `NavigationStack` dan `Charts`) untuk memastikan aplikasi siap digunakan di masa depan (*future-proof*).
+3. **Data-Driven Executive Views:** Mengubah data mentah lapangan menjadi wawasan yang bermakna bagi para pengambil keputusan melalui dasbor yang elegan.
 
 ---
 
 ### 📫 Mari Terhubung!
 
+Saya selalu terbuka untuk diskusi mengenai pengembangan aplikasi iOS, desain antarmuka, maupun kolaborasi dalam menciptakan perangkat lunak untuk industri. 
+
 <p align="left">
   <a href="mailto:email-anda@domain.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Hubungi_Saya-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/username-linkedin-anda">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Terhubung_di_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+<p align="center">
+  <i>"Writing clean code and designing beautiful interfaces for complex problems."</i>
 </p>
